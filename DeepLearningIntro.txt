@@ -1,0 +1,66 @@
+Deep learning is a subset of machine learning that focuses on using
+Artificial Neural Network(ANN) to learn from data.It enables machines
+to automatically detect patterns and make decisions,similar to how the 
+human brain processs information.
+
+Deep Learning Becoming popular due to large amount of Data,
+hardware of the system is advanced now. We have high performing 
+GPU's[Graphical Processing Unit] and TPU's[Tensorflow Processing Unit].
+We have easy to code and learn programming language which is Python.
+We can install Deep Learning frameworks like Pytorch and Tensorflow
+for free on our local system and stsrt programming in deep learning
+and creating neural network.Pytorch is by Facebook and Tensorflow is by Google.
+
+
+Deep Learning is used in-
+--> Computer Vision (Face Recognition, Object Detection)
+--> Natural Language Processing (Chatbots,Translation,Sentiment Analysis)
+--> Speech Recognition (Alexa , Siri , Google Assistant)
+--> Autonomous Vehicles (Tesla)
+
+it is called "Deep" because the neural networks have multiple layers between 
+the input and output.
+
+A) Feedforward Neural Network(Multilayer Perceptron)
+   Input Layer --> Hidden Layers --> Output Layer
+   Used for classification and regression
+
+B) Backpropogation Neural Network(Multilayer Perceptron)
+   Input Layer --> Hidden Layers --> Output Layer
+   Goal of Backpropogation Neural Network is to reduce error by making small changes to the weights.
+
+C) Convolutional Neural Network (CNN) - (Used when Image dataset)
+   Convolution Layers for feature extraction
+   Pooling lahyers for downsampling to reduce computation
+   Fully Connected Layers for final classification
+
+D) Recurrent Neural Network (RNN) - (Used when time-series , Text , speech datasets)
+   Used for Text Generation and Speech Recognition
+   IMportant note in RNN is that neurons maintains a memory of past inputs
+  
+
+E) Long Short Term Memory - (LSTM)
+   Advanced Type of RNN that solves the vanishing gradient problem.
+   Used in machine translation like google translation and time-series forecasting like Stock Market Prediction
+   Uses memory cells with gates (Forget,Input,Output)
+
+F) Gated Recurrent UNit - (GRU)
+   Similar to LSTM but more computationally efficient
+   Uses reset and update gates instead of LSTM's three gates
+   Used for Text Summeriztion and Sentiment Analysis
+
+G) Transformer Networks like BERT(Bidirectional Encoder Representation from Transformers)
+   GPT(Generative Pre-Trained Models) & T5(Text To Text Transfer Transformer) 
+   These models are designed for Natural Language Processing
+   These models replace RNNs for NLP task
+   These models are used in CHatbots,Text-Generation
+
+H) Generative Adversarial Network (GANs)
+   These models are used for Data Generation like Images,Videos or Music
+   Used in AI generated images and data augmentation for training
+
+I) Autoencoders-
+   Used for feature extraction and anomaly detection
+   Encoders are for compessing input into a lower dimentional representation
+   Decoders are for reconstructs the original input.
+   Used for Image Denoising and Fraud Detection.
