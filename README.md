@@ -6,3 +6,4 @@
 - **Perceptron Training :** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PerceptronTraining%26Finding'w'%26'b'ValuesInPerceptron.ipynb)
 - **Loss Function Intuation:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)
 - **Activation Functions:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
+- **MLP Bias and Weight Notation:** [CLick Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptronNotation.ipynb)
