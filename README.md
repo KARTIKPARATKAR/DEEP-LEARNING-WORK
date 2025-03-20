@@ -8,3 +8,4 @@
 - **Activation Functions:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
 - **MLP Bias and Weight Notation:** [CLick Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptronNotation.ipynb)
 - **Multilayer Perceptron Training:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptron.ipynb)
+- **Forward Propogation:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ForwardPropogation.ipynb)
