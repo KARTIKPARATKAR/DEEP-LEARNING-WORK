@@ -9,5 +9,5 @@
 - **MLP Bias and Weight Notation:** [CLick Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptronNotation.ipynb)
 - **Multilayer Perceptron Training:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptron.ipynb)
 - **Forward Propogation:** [Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ForwardPropogation.ipynb)
-- **Artificial Neural Network with Tensorflow&Keras:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)
+- **Sequential Artificial Neural Network with Tensorflow&Keras On Customer Churn Dataset For Binary Classification:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)
 - **Sequential Artificial Neural Network with Tensorflow&Keras on MNIST Dataset For Multiclass Classificaation:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
