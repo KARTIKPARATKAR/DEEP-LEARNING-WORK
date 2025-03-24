@@ -14,3 +14,4 @@
 - **Artificial Neural Network For Regression Problem:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
 - **LossFunctionInDepthInNeuralNetwork:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
 - **Backpropogation -> Steps to calculate updated w and b :**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation.ipynb)
+- **Backpropogation IMplementation without KERAS library:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)
