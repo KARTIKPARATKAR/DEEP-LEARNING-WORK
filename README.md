@@ -12,6 +12,6 @@
 - **Sequential Artificial Neural Network with Tensorflow&Keras On Customer Churn Dataset For Binary Classification:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)
 - **Sequential Artificial Neural Network with Tensorflow&Keras on MNIST Dataset For Multiclass Classificaation:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
 - **Artificial Neural Network For Regression Problem:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
-- **LossFunctionInDepthInNeuralNetwork:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
+- **Loss Function In Depth In Neural Network:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
 - **Backpropogation -> Steps to calculate updated w and b :**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation.ipynb)
 - **Backpropogation Implementation without KERAS library:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)
