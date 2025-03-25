@@ -16,7 +16,7 @@
 - **Backpropogation -> Steps to calculate updated w and b :**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation.ipynb)
 - **Backpropogation Implementation without KERAS library:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)
 - **Gradient Descent In Neural Network:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GradientDescentInNeuralNetwork.ipynb)
-- **Vanishing Gradient Problem In ANN:**[CLick Her](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VanishingGradientProblemInANN.ipynb)
+- **Vanishing Gradient Problem In ANN:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VanishingGradientProblemInANN.ipynb)
 - **How To Improve Performance Of Neural Network:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/HowToImprovePerformanceOfANN.ipynb)
 - **Early Stopping In ANN:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Early_Stopping_In_ANN.ipynb)
 - **Feature Scaling Normalization In Artificial Neural Network:**[Click Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Data_or_Feature_Scaling_Normalization_In_ANN.ipynb)
