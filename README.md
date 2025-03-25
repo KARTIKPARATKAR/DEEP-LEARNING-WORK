@@ -18,8 +18,8 @@ This repository contains various deep learning concepts, implementations, and tu
 - 🔹 [Backpropagation Implementation (without Keras)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)
 
 ## **4️⃣ Activation & Loss Functions**
-- 🔹 [Activation Functions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
-- 🔹 [Loss Function Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)
+- 🔹 [Activation Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
+- 🔹 [Loss Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)
 - 🔹 [Loss Functions in Depth](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
 
 ## **5️⃣ Gradient Descent & Optimization**
