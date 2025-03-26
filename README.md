@@ -42,6 +42,9 @@ This repository contains various deep learning concepts, implementations, and tu
   - [ANN on MNIST Dataset](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
 - 🔴 **Regression Problem:**  
   - [ANN for Regression](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
+ 
+## **8️⃣ Weight Initialization Techniques**
+- 🔹 [What Not To Do When Initializing the Weight Values](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WeightInitilizationTechnique(WhatNotToDo).ipynb)
 
 ---
 
