@@ -19,6 +19,7 @@ This repository contains various deep learning concepts, implementations, and tu
 
 ## **4️⃣ Activation & Loss Functions**
 - 🔹 [Activation Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
+- 🔹  [Activation Functions in Depth](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Activation_Functions_In_Deep_Learning.ipynb)
 - 🔹 [Loss Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)
 - 🔹 [Loss Functions in Depth](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
 
