@@ -46,6 +46,10 @@ This repository contains various deep learning concepts, implementations, and tu
 ## **8️⃣ Weight Initialization Techniques**
 - 🔹 [What Not To Do When Initializing the Weight Values](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WeightInitilizationTechnique(WhatNotToDo).ipynb)
 - 🔹 [Xavier/Glorat And He Weight Initialization Technique](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Xavier_Glorat_And_He_Weight_Initialization_.ipynb)
+- 
+
+
+[Batch Normalization In Deep Learning](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BatchNormalization_.ipynb)
 
 
 ### **✨ How to Use This Repository?**
