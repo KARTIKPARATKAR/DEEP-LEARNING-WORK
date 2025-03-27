@@ -52,6 +52,9 @@ This repository contains various deep learning concepts, implementations, and tu
 [Batch Normalization In Deep Learning](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BatchNormalization_.ipynb)
 
 
+## **Optimizers:**
+- [Optimizers Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)
+
 ### **✨ How to Use This Repository?**
 1️⃣ Browse topics based on categories.  
 2️⃣ Click the **"Click Here"** links to open Jupyter Notebooks.  
