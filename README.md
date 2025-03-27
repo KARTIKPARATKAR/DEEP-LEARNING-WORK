@@ -54,6 +54,7 @@ This repository contains various deep learning concepts, implementations, and tu
 
 ## **Optimizers:**
 - [Optimizers Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)
+- [Exponentially Weighted Moving Average](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ExponentiallyWeightedMovingAverage_.ipynb)
 
 ### **✨ How to Use This Repository?**
 1️⃣ Browse topics based on categories.  
