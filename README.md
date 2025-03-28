@@ -58,6 +58,7 @@ This repository contains various deep learning concepts, implementations, and tu
 - [SGD with Momentum ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SGD_with_Momentum_(Optimizers_Part_2).ipynb)
 - [Nesterov Accelerated Gradient Descent](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NesterovAcceleratedGradient(NAG)_Optimizers_Part_3.ipynb)
 - [Keras Implementation of SGD , SGD with Momentum and NAG](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Stochastic_Gradient_Descent_Imlementation_Optimizers_Part_3.ipynb)
+- [Adagrad Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AdaGrad_Optimizer.ipynb)
 
 ### **✨ How to Use This Repository?**
 1️⃣ Browse topics based on categories.  
