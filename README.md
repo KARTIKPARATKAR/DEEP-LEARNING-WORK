@@ -60,6 +60,7 @@ This repository contains various deep learning concepts, implementations, and tu
 - [Keras Implementation of SGD , SGD with Momentum and NAG](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Stochastic_Gradient_Descent_Imlementation_Optimizers_Part_3.ipynb)
 - [Adagrad Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AdaGrad_Optimizer.ipynb)
 - [RMSprop Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RMSProp_Optimizer.ipynb)
+- [Adam Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Adam_Optimizer.ipynb)
 
 ### **✨ How to Use This Repository?**
 1️⃣ Browse topics based on categories.  
