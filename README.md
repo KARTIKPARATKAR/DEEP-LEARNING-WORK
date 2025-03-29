@@ -1,74 +1,93 @@
-# **DEEP LEARNING WORK**
+# **🧠 DEEP LEARNING WORK**  
 
-This repository contains various deep learning concepts, implementations, and tutorials.
+This repository contains implementations, tutorials, and resources covering fundamental to advanced deep learning concepts.
 
-## **1️⃣ Introduction to Deep Learning**
-- 🔹 [Deep Learning Intro](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepLearningIntro.txt)
-- 🔹 [Neuron & Neural Network](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Neuron%26NeuralNetwork.ipynb)
+---
 
-## **2️⃣ Perceptron & Multi-Layer Perceptron (MLP)**
-- 🔹 [Perceptron Implementation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PerceptronImplementation.ipynb)
-- 🔹 [Perceptron Training & Finding 'w' & 'b' Values](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PerceptronTraining%26Finding'w'%26'b'ValuesInPerceptron.ipynb)
-- 🔹 [MLP Bias and Weight Notation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptronNotation.ipynb)
-- 🔹 [Multilayer Perceptron Training](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptron.ipynb)
+## **1️⃣ Introduction to Deep Learning**  
+- 🔹 [Deep Learning Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepLearningIntro.txt)  
+- 🔹 [Neuron & Neural Network Fundamentals](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Neuron%26NeuralNetwork.ipynb)  
 
-## **3️⃣ Forward & Backpropagation**
-- 🔹 [Forward Propagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ForwardPropogation.ipynb)
-- 🔹 [Backpropagation - Steps to Update 'w' and 'b'](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation.ipynb)
-- 🔹 [Backpropagation Implementation (without Keras)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)
+---
 
-## **4️⃣ Activation & Loss Functions**
-- 🔹 [Activation Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)
-- 🔹  [Activation Functions in Depth](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Activation_Functions_In_Deep_Learning.ipynb)
-- 🔹  [Dying Relu Problem and Variants of Relu](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ReLU_Problem_and_Its_Varients.ipynb)
-- 🔹 [Loss Functions Intuition](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)
-- 🔹 [Loss Functions in Depth](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)
+## **2️⃣ Perceptron & Multi-Layer Perceptron (MLP)**  
+- 🔹 [Perceptron Implementation from Scratch](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PerceptronImplementation.ipynb)  
+- 🔹 [Training: Finding Optimal Weights ('w') and Bias ('b')](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PerceptronTraining%26Finding'w'%26'b'ValuesInPerceptron.ipynb)  
+- 🔹 [MLP Weight & Bias Notation Explained](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptronNotation.ipynb)  
+- 🔹 [Complete MLP Training Process](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultilayerPerceptron.ipynb)  
 
-## **5️⃣ Gradient Descent & Optimization**
-- 🔹 [Gradient Descent in Neural Network](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GradientDescentInNeuralNetwork.ipynb)
-- 🔹 [Vanishing Gradient Problem in ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VanishingGradientProblemInANN.ipynb)
-- 🔹 [How to Improve Performance of Neural Network](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/HowToImprovePerformanceOfANN.ipynb)
+---
 
-## **6️⃣ Regularization & Optimization Techniques**
-- 🔹 [Early Stopping in ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Early_Stopping_In_ANN.ipynb)
-- 🔹 [Feature Scaling & Normalization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Data_or_Feature_Scaling_Normalization_In_ANN.ipynb)
-- 🔹 [Dropout Layers in ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dropout_Layers_In_ANN.ipynb)
-- 🔹 [Regularization in Deep Learning](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Regularization_In_Deep_Learning.ipynb)
+## **3️⃣ Forward & Backpropagation**  
+- 🔹 [Step-by-Step Forward Propagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ForwardPropogation.ipynb)  
+- 🔹 [Backpropagation: Weight Update Mechanics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation.ipynb)  
+- 🔹 [Manual Backpropagation Implementation (No Keras)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Backpropogation_Implementation.ipynb)  
 
-## **7️⃣ ANN Implementations on Real-World Datasets**
-- 🟢 **Binary Classification:**  
-  - [ANN on Customer Churn Dataset](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)
-- 🔵 **Multi-class Classification:**  
-  - [ANN on MNIST Dataset](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
-- 🔴 **Regression Problem:**  
-  - [ANN for Regression](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
- 
-## **8️⃣ Weight Initialization Techniques**
-- 🔹 [What Not To Do When Initializing the Weight Values](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WeightInitilizationTechnique(WhatNotToDo).ipynb)
-- 🔹 [Xavier/Glorat And He Weight Initialization Technique](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Xavier_Glorat_And_He_Weight_Initialization_.ipynb)
-- 
+---
 
+## **4️⃣ Activation & Loss Functions**  
+### **Activation Functions**  
+- 🔹 [Intuition Behind Activation Functions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ActivationFunction.ipynb)  
+- 🔹 [Detailed Analysis of Activation Functions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Activation_Functions_In_Deep_Learning.ipynb)  
+- 🔹 [Dying ReLU Problem and Solutions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ReLU_Problem_and_Its_Varients.ipynb)  
 
-[Batch Normalization In Deep Learning](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BatchNormalization_.ipynb)
+### **Loss Functions**  
+- 🔹 [Understanding Loss Functions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctionIntuation.ipynb)  
+- 🔹 [Comprehensive Guide to Loss Functions](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LossFunctonsInNeuralNetwork.ipynb)  
 
-[Hyperparameter Tunning Using KerasTuner Library](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Keras_Hyperparameter_Tunning.ipynb)
+---
 
+## **5️⃣ Gradient Descent & Optimization**  
+- 🔹 [Gradient Descent in Neural Networks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GradientDescentInNeuralNetwork.ipynb)  
+- 🔹 [Vanishing Gradient Problem Explained](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VanishingGradientProblemInANN.ipynb)  
+- 🔹 [Techniques to Improve ANN Performance](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/HowToImprovePerformanceOfANN.ipynb)  
 
-## **Optimizers:**
-- [Optimizers Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)
-- [Exponentially Weighted Moving Average](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ExponentiallyWeightedMovingAverage_.ipynb)
-- [SGD with Momentum ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SGD_with_Momentum_(Optimizers_Part_2).ipynb)
-- [Nesterov Accelerated Gradient Descent](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NesterovAcceleratedGradient(NAG)_Optimizers_Part_3.ipynb)
-- [Keras Implementation of SGD , SGD with Momentum and NAG](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Stochastic_Gradient_Descent_Imlementation_Optimizers_Part_3.ipynb)
-- [Adagrad Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AdaGrad_Optimizer.ipynb)
-- [RMSprop Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RMSProp_Optimizer.ipynb)
-- [Adam Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Adam_Optimizer.ipynb)
+---
 
+## **6️⃣ Regularization & Optimization Techniques**  
+- 🔹 [Early Stopping Implementation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Early_Stopping_In_ANN.ipynb)  
+- 🔹 [Feature Scaling & Normalization Methods](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Data_or_Feature_Scaling_Normalization_In_ANN.ipynb)  
+- 🔹 [Dropout Layers: Theory & Practice](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dropout_Layers_In_ANN.ipynb)  
+- 🔹 [Complete Guide to Regularization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Regularization_In_Deep_Learning.ipynb)  
 
+---
 
-### **✨ How to Use This Repository?**
-1️⃣ Browse topics based on categories.  
-2️⃣ Click the **"Click Here"** links to open Jupyter Notebooks.  
-3️⃣ Run the notebooks on Google Colab or Jupyter Notebook.  
+## **7️⃣ ANN Implementations on Real-World Datasets**  
+### **🔵 Binary Classification**  
+- [Customer Churn Prediction Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
 
-Enjoy learning! 🚀
+### **🟢 Multi-class Classification**  
+- [MNIST Digit Classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
+
+### **🔴 Regression**  
+- [ANN for Regression Problems](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
+
+---
+
+## **8️⃣ Weight Initialization Techniques**  
+- 🔹 [Weight Initialization Pitfalls](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WeightInitilizationTechnique(WhatNotToDo).ipynb)  
+- 🔹 [Xavier/Glorot & He Initialization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Xavier_Glorat_And_He_Weight_Initialization_.ipynb)  
+- 🔹 [Batch Normalization Implementation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BatchNormalization_.ipynb)  
+- 🔹 [Hyperparameter Tuning with KerasTuner](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Keras_Hyperparameter_Tunning.ipynb)  
+
+---
+
+## **🔧 Optimizers**  
+- 🔹 [Optimizers Fundamentals](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)  
+- 🔹 [Exponentially Weighted Moving Average](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ExponentiallyWeightedMovingAverage_.ipynb)  
+- 🔹 [SGD with Momentum](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SGD_with_Momentum_(Optimizers_Part_2).ipynb)  
+- 🔹 [Nesterov Accelerated Gradient](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NesterovAcceleratedGradient(NAG)_Optimizers_Part_3.ipynb)  
+- 🔹 [Keras: SGD/Momentum/NAG](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Stochastic_Gradient_Descent_Imlementation_Optimizers_Part_3.ipynb)  
+- 🔹 [Adagrad Optimizer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AdaGrad_Optimizer.ipynb)  
+- 🔹 [RMSprop Implementation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RMSProp_Optimizer.ipynb)  
+- 🔹 [Adam Optimizer Explained](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Adam_Optimizer.ipynb)  
+
+---
+
+### **✨ How to Use This Repository**  
+1️⃣ Browse topics by category  
+2️⃣ Click notebook links to view implementations  
+3️⃣ Run notebooks in Google Colab or Jupyter  
+4️⃣ Experiment with different parameters  
+
+**Happy Learning!** 🚀
