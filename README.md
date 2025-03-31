@@ -86,6 +86,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ## **🔟 Convolutional Neural Network**
 - 🔹 [CNN Intuition with Human Visual Cortex](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ConvolutionalNeuralNetwork(CNN).ipynb)
+- 🔹 [CNN - Convolution Operation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Convolution_Operation.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
