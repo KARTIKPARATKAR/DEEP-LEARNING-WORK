@@ -89,6 +89,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN - Convolution Operation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Convolution_Operation.ipynb)
 - 🔹 [CNN - Padding  & Strides](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Padding_%26_Strides_.ipynb)
 - 🔹 [CNN - Pooling Layer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Pooling_Layer.ipynb)
+- 🔹 [CNN - LeNet Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Architecture(LeNet).ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
