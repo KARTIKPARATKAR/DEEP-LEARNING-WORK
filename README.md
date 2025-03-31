@@ -72,7 +72,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ---
 
-## **🔧 Optimizers**  
+## **9️⃣🔧 Optimizers**  
 - 🔹 [Optimizers Fundamentals](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)  
 - 🔹 [Exponentially Weighted Moving Average](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ExponentiallyWeightedMovingAverage_.ipynb)  
 - 🔹 [SGD with Momentum](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SGD_with_Momentum_(Optimizers_Part_2).ipynb)  
@@ -83,6 +83,9 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [Adam Optimizer Explained](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Adam_Optimizer.ipynb)  
 
 ---
+
+-## **🔟 Convolutional Neural Network**
+- 🔹 [CNN Intuition with Human Visual Cortex](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ConvolutionalNeuralNetwork(CNN).ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
