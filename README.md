@@ -98,7 +98,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN BackPropagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_vs_ANN.ipynb)
 - ### **🐶🐱 CNN for Image Classification**  
   🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)
-- 🔹 [Image Data Augmentation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DataAugmentation.ipynb)
+- 🔹 [CNN - Image Data Augmentation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DataAugmentation.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
