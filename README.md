@@ -52,15 +52,20 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ---
 
-## **7️⃣ ANN Implementations on Real-World Datasets**  
-### **🔵 Binary Classification**  
-- [Customer Churn Prediction Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
+## **7️⃣ ANN & CNN Implementations on Real-World Datasets**  
 
-### **🟢 Multi-class Classification**  
-- [MNIST Digit Classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
+### **🟦 Binary Classification**  
+- 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
 
-### **🔴 Regression**  
-- [ANN for Regression Problems](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
+### **🟩 Multi-Class Classification**  
+- 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
+
+### **🟥 Regression with ANN**  
+- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
+
+### **🐶🐱 CNN for Image Classification**  
+- 🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)  
+
 
 ---
 
