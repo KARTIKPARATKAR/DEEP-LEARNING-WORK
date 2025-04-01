@@ -100,6 +100,7 @@ This repository contains implementations, tutorials, and resources covering fund
   🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)
 - 🔹 [CNN - Image Data Augmentation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DataAugmentation.ipynb)
 - 🔹 [CNN - AlexNet Model and Pretrained Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PreTrainedModelInCNN.ipynb)
+- 🔹 [CNN - Filters and Feature Map Visualization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VisualizingCNNFilters%26FeatureMaps.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
