@@ -102,6 +102,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN - AlexNet Model and Pretrained Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PreTrainedModelInCNN.ipynb)
 - 🔹 [CNN - Filters and Feature Map Visualization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VisualizingCNNFilters%26FeatureMaps.ipynb)
 - 🔹 [CNN - Transfer Learning In Keras](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInKeras.ipynb)
+- [CNN - Building Non-Linear CNN Models with Keras Functional API](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Keras_Non_Linear_Neural_Networks.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
