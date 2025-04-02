@@ -106,6 +106,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ## **1️1️⃣ Recurrent Neural Networks(RNN)-**
 - 🔹 [RNN - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Recurrent_Neural_NEtwork.ipynb)
+- 🔹 [RNN - Architecture & Forward Propagation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Forward_Propagation.ipynb)
 
 
 ### **✨ How to Use This Repository**  
