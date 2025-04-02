@@ -101,6 +101,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN - Image Data Augmentation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DataAugmentation.ipynb)
 - 🔹 [CNN - AlexNet Model and Pretrained Model](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PreTrainedModelInCNN.ipynb)
 - 🔹 [CNN - Filters and Feature Map Visualization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/VisualizingCNNFilters%26FeatureMaps.ipynb)
+- 🔹 [CNN - Transfer Learning In Keras](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInKeras.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
