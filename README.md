@@ -105,7 +105,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN - Building Non-Linear CNN Models with Keras Functional API](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Keras_Non_Linear_Neural_Networks.ipynb)
 
 ## **1️1️⃣ Recurrent Neural Networks(RNN)-**
-- 🔹 
+- 🔹 [RNN - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Recurrent_Neural_NEtwork.ipynb)
 
 
 ### **✨ How to Use This Repository**  
