@@ -110,6 +110,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [RNN - Sentiment Analysis Using Integer Encoding](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Sentiment_Analysis_with_Keras_Code.ipynb)
 - 🔹 [RNN - Sentiment Analysis Using Embeddings](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Sentiment_Analysis_Using_Embeddings.ipynb)
 - 🔹 [RNN - Different Types](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Different_Types.ipynb)
+- 🔹 [RNN - Backpropagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_BackPropagation.ipynb)
 
 
 ### **✨ How to Use This Repository**  
