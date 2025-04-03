@@ -49,23 +49,6 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [Feature Scaling & Normalization Methods](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Data_or_Feature_Scaling_Normalization_In_ANN.ipynb)  
 - 🔹 [Dropout Layers: Theory & Practice](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dropout_Layers_In_ANN.ipynb)  
 - 🔹 [Complete Guide to Regularization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Regularization_In_Deep_Learning.ipynb)  
-
----
-
-## **7️⃣ ANN Implementations on Real-World Datasets**  
-
-### **🟦 Binary Classification**  
-- 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
-
-### **🟩 Multi-Class Classification**  
-- 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
-
-### **🟥 Regression with ANN**  
-- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
-
-
-
-
 ---
 
 ## **8️⃣ Weight Initialization Techniques**  
