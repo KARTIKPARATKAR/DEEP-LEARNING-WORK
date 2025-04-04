@@ -94,6 +94,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [RNN - Sentiment Analysis Using Embeddings](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Sentiment_Analysis_Using_Embeddings.ipynb)
 - 🔹 [RNN - Different Types](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Different_Types.ipynb)
 - 🔹 [RNN - Backpropagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_BackPropagation.ipynb)
+- 🔹 [RNN - Prolems with RNN and Solution](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Problems_With_RNN.ipynb)
 
 
 ### **✨ How to Use This Repository**  
