@@ -1,0 +1,33 @@
+Dataset Used is - https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+
+Aim - To test different imagenet pretrained models on flower dataset for multiclass classification.
+
+Dataset- Dataset contains images of 5 different types such as - Daisy , Dandelion , Roses , Sunflowers , Tulips.
+         We divided the dataset in training data and test data with 80% data would be used for training the model and 20% data would be used for test the model.
+         There were total 3670 images out of which 2936 will be used for training and rest 734 images would be used for test.
+
+
+Model Definition-   4 different imagenet pretrained models we have used. 
+1)Resnet50
+2)Xception
+3)VGG16
+4)InceptionV3
+
+In all 4 cases , we kept the weights on imagenet dataset , we kept include_top = False which means dont keep 
+fully connected layer of original model that was used to train on ImageNet dataset.Gave input to the model with size 180 * 180 * 3 which means
+grid size of image is 180 * 180 and it is a RGB image.We used batch_normalization , dropout of 0.3 and l2 regularization to avoid overfitting in the model.
+Output layer has 5 neurons as we have 5 classes in the dataset.Activation function of output layer is Softmax as it is a Multiclass Classification Problem.
+We compiled all 4 models with Adam optimizer with learning rate of 0.001 , loss of sparse_categorical_crossentropy with  metrics as accuracy. We trained all 4 models 
+with 25 epochs and stored the log history in variable history. We have drawn train and validation accuracy and loss in two different graphs.For prediction on unseen image , 
+download one of the image from available class , 
+upload it in google collab and paste the path of image in [image = cv2.imread('/content/tulipse.jpeg')].
+
+
+Result - 
+| **Model**      | **Train Accuracy** | **Train Loss** | **Val Accuracy** | **Val Loss** | **Remarks**                                   |
+|----------------|--------------------|----------------|------------------|--------------|-----------------------------------------------|
+| **ResNet50**   | 0.9597             | 0.6167         | 0.8692           | 0.9964       | Best performance overall                      |
+| **Xception**   | 0.7782             | 1.3080         | 0.5123           | 2.2271       | Underfitting, poor generalization             |
+| **VGG16**      | 0.9192             | 0.7011         | 0.8474           | 0.9967       | Good performance, slightly behind ResNet50    |
+| **InceptionV3**| 0.6325             | 1.4828         | 0.4659           | 1.9684       | Worst performance, poor generalization        |
+
