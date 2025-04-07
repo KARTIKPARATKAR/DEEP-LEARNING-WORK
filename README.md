@@ -109,6 +109,11 @@ This repository contains implementations, tutorials, and resources covering fund
   - Got output as accuracy: **0.7782 - loss: 1.3080 - val_accuracy: 0.5123 - val_loss: 2.2271**
     which is not at all good model. Got 51% accuracy on validation data means underfitting is there in the model.
 
+**Case 3-**[VGG16 model with Transfer Learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningVGG16OnFlowersDatasetipynb.ipynb)
+
+ - Got output as **accuracy: 0.9192 - loss: 0.7011 - val_accuracy: 0.8474 - val_loss: 0.9967**
+   which is better working than Xception model but VGG16 is not working better than ResNet50 model.
+
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
 2️⃣ Click notebook links to view implementations  
