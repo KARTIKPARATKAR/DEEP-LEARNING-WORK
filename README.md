@@ -98,7 +98,11 @@ This repository contains implementations, tutorials, and resources covering fund
 
   
 ## ** 1️2️⃣Transfer Learning on Imagenet Pretrained Models (CNN)-**
-- 
+**Case 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
+  - Dataset is loaded without using imagedatagenerator
+  - used 25 number of epochs
+  - Got output as accuracy: **0.9597 - loss: 0.6167 - val_accuracy: 0.8692 - val_loss: 0.9964**
+  - While making the prediction, download any one of the image from available class , upload it to google collab and copy & paste link to "image = cv2.imread('here')
 
 
 ### **✨ How to Use This Repository**  
