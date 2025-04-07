@@ -114,7 +114,11 @@ This repository contains implementations, tutorials, and resources covering fund
  - Got output as **accuracy: 0.9192 - loss: 0.7011 - val_accuracy: 0.8474 - val_loss: 0.9967**
    which is better working than Xception model but VGG16 is not working better than ResNet50 model.
 
-**Model 4-**[InceptionV3 model with Transfer Learning For Flowers classification]()
+**Model 4-**[InceptionV3 model with Transfer Learning For Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInceptionV3OnFlowersDatasetipynb.ipynb)
+
+- Got output as **accuracy: 0.6325 - loss: 1.4828 - val_accuracy: 0.4659 - val_loss: 1.9684** which is not at all a good model to predict as we got validation accuracy less than 50%.
+
+
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
