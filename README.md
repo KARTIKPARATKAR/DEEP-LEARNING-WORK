@@ -104,6 +104,10 @@ This repository contains implementations, tutorials, and resources covering fund
   - Got output as accuracy: **0.9597 - loss: 0.6167 - val_accuracy: 0.8692 - val_loss: 0.9964**
   - While making the prediction, download any one of the image from available class , upload it to google collab and copy & paste link to "image = cv2.imread('here')
 
+**Case 2-** [Xception model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningXceptionOnFlowersDatasetipynb.ipynb)
+
+  - Got output as accuracy: **0.7782 - loss: 1.3080 - val_accuracy: 0.5123 - val_loss: 2.2271**
+    which is not at all good model. Got 51% accuracy on validation data means underfitting is there in the model.
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
