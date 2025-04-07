@@ -98,21 +98,23 @@ This repository contains implementations, tutorials, and resources covering fund
 
   
 ## ** 1️2️⃣Transfer Learning on Imagenet Pretrained Models (CNN)-**
-**Case 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
+**Model 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
   - Dataset is loaded without using imagedatagenerator
   - used 25 number of epochs
   - Got output as accuracy: **0.9597 - loss: 0.6167 - val_accuracy: 0.8692 - val_loss: 0.9964**
   - While making the prediction, download any one of the image from available class , upload it to google collab and copy & paste link to "image = cv2.imread('here')
 
-**Case 2-** [Xception model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningXceptionOnFlowersDatasetipynb.ipynb)
+**Model 2-** [Xception model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningXceptionOnFlowersDatasetipynb.ipynb)
 
   - Got output as accuracy: **0.7782 - loss: 1.3080 - val_accuracy: 0.5123 - val_loss: 2.2271**
     which is not at all good model. Got 51% accuracy on validation data means underfitting is there in the model.
 
-**Case 3-**[VGG16 model with Transfer Learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningVGG16OnFlowersDatasetipynb.ipynb)
+**Model 3-**[VGG16 model with Transfer Learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningVGG16OnFlowersDatasetipynb.ipynb)
 
  - Got output as **accuracy: 0.9192 - loss: 0.7011 - val_accuracy: 0.8474 - val_loss: 0.9967**
    which is better working than Xception model but VGG16 is not working better than ResNet50 model.
+
+**Model 4-**[InceptionV3 model with Transfer Learning For Flowers classification]()
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
