@@ -98,7 +98,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
   
 ## ** 1️2️⃣Transfer Learning on Imagenet Pretrained Models (CNN)-**
-Checkout Result [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/resultoftransferlearningonimagenetpretrainedmodelsonflowersdataset.txt)
+Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/resultoftransferlearningonimagenetpretrainedmodelsonflowersdataset.txt)
 
 **Model 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
   - Dataset is loaded without using imagedatagenerator
