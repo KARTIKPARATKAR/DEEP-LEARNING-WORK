@@ -96,6 +96,10 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [RNN - Backpropagation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_BackPropagation.ipynb)
 - 🔹 [RNN - Prolems with RNN and Solution](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Problems_With_RNN.ipynb)
 
+  
+## ** 1️2️⃣Transfer Learning on Imagenet Pretrained Models (CNN)-**
+- 
+
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
