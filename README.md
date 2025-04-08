@@ -98,7 +98,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [RNN - Prolems with RNN and Solution](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Problems_With_RNN.ipynb)
 
   
-## ** 1️2️⃣Transfer Learning on Imagenet Pretrained Models For Multiclass Image Classification Problem (CNN)-**
+## **1️2️⃣Transfer Learning on Imagenet Pretrained Models For Multiclass Image Classification Problem (CNN)-**
 Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/resultoftransferlearningonimagenetpretrainedmodelsonflowersdataset.txt)
 
 **Model 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
