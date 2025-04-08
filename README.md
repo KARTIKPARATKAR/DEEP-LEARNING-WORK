@@ -118,6 +118,11 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 **Model 4-**[InceptionV3 model with Transfer Learning For Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInceptionV3OnFlowersDatasetipynb.ipynb)
 - Got output as **accuracy: 0.6325 - loss: 1.4828 - val_accuracy: 0.4659 - val_loss: 1.9684** which is not at all a good model to predict as we got validation accuracy less than 50%.
 
+## **1️3️⃣ Long Short Term Memory(LSTM)-**
+- [LSTM - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM(LongShortTermMemory)_Basics.ipynb)
+
+- 
+
 
 
 ### **✨ How to Use This Repository**  
