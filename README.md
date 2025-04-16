@@ -121,7 +121,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 ## **1️3️⃣ Long Short Term Memory(LSTM)-**
 - [LSTM - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM(LongShortTermMemory)_Basics.ipynb)
 
-- 
+- [LSTM - Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM_Architecture.ipynb)
 
 
 
