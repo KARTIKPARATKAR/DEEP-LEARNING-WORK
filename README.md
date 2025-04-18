@@ -126,7 +126,8 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Next Word Predictor Using LSTM](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NextWordPredictorUsingLSTM.ipynb)
 - **[Gated Recurrent Unit](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GatedRecurrentUnit(GRU).ipynb)**
 
-
+## **1️4️⃣ - Bidirectional & Stacked RNN/LSTM/GRU**
+- [Deep/Stacked RNN/LSTM/GRU's](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepRNN.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
