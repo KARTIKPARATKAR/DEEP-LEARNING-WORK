@@ -124,6 +124,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [LSTM - Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM_Architecture.ipynb)
 
 - [Next Word Predictor Using LSTM](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NextWordPredictorUsingLSTM.ipynb)
+- #[Gated Recurrent Unit](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GatedRecurrentUnit(GRU).ipynb)
 
 
 
