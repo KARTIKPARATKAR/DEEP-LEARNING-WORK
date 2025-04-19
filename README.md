@@ -131,7 +131,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Bidirectional RNN/LSTM/GRU](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BidirectionalRNN.ipynb)
 - 
 
-## [Large Language Models and ChatGPT](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LargeLanguageModels(LLM's).ipynb)
+## 🤖📚🧠💬 [Large Language Models and ChatGPT](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LargeLanguageModels(LLM's).ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
