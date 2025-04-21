@@ -133,6 +133,10 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 
 ## 🤖📚🧠💬 [Large Language Models and ChatGPT](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LargeLanguageModels(LLM's).ipynb)
 
+
+## **1️5️⃣ - Sequence to Sequence Models**
+- [Encoder - Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SequenceToSequenceModels.ipynb)
+
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
 2️⃣ Click notebook links to view implementations  
