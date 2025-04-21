@@ -139,7 +139,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Attention Mechanism](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AttentionMechanism.ipynb)
 - [Bahdanau and Luong Attention](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BahdanauAttentionVSLuongAttention.ipynb)
 
-  ## **1️4️⃣ - Transformer Models**
+## **1️4️⃣ - Transformer Models**
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
