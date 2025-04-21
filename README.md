@@ -51,7 +51,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [Complete Guide to Regularization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Regularization_In_Deep_Learning.ipynb)  
 ---
 
-## **8️⃣ Weight Initialization Techniques**  
+## **7️⃣ Weight Initialization Techniques**  
 - 🔹 [Weight Initialization Pitfalls](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WeightInitilizationTechnique(WhatNotToDo).ipynb)  
 - 🔹 [Xavier/Glorot & He Initialization](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Xavier_Glorat_And_He_Weight_Initialization_.ipynb)  
 - 🔹 [Batch Normalization Implementation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BatchNormalization_.ipynb)  
@@ -59,7 +59,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ---
 
-## **9️⃣🔧 Optimizers**  
+## **8️⃣🔧 Optimizers**  
 - 🔹 [Optimizers Fundamentals](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Optimizers_.ipynb)  
 - 🔹 [Exponentially Weighted Moving Average](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ExponentiallyWeightedMovingAverage_.ipynb)  
 - 🔹 [SGD with Momentum](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SGD_with_Momentum_(Optimizers_Part_2).ipynb)  
@@ -71,7 +71,7 @@ This repository contains implementations, tutorials, and resources covering fund
 
 ---
 
-## **🔟 Convolutional Neural Networks(CNN)-**
+## **9️⃣ Convolutional Neural Networks(CNN)-**
 - 🔹 [CNN - Intuition with Human Visual Cortex](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ConvolutionalNeuralNetwork(CNN).ipynb)
 - 🔹 [CNN - Convolution Operation](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Convolution_Operation.ipynb)
 - 🔹 [CNN - Padding  & Strides](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CNN_Padding_%26_Strides_.ipynb)
@@ -88,7 +88,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [CNN - Transfer Learning In Keras](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInKeras.ipynb)
 - 🔹 [CNN - Building Non-Linear CNN Models with Keras Functional API](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Keras_Non_Linear_Neural_Networks.ipynb)
 
-## **1️1️⃣ Recurrent Neural Networks(RNN)-**
+## **1️0️⃣Recurrent Neural Networks(RNN)-**
 - 🔹 [RNN - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Recurrent_Neural_NEtwork.ipynb)
 - 🔹 [RNN - Architecture & Forward Propagation ](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Forward_Propagation.ipynb)
 - 🔹 [RNN - Sentiment Analysis Using Integer Encoding](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Sentiment_Analysis_with_Keras_Code.ipynb)
@@ -98,7 +98,7 @@ This repository contains implementations, tutorials, and resources covering fund
 - 🔹 [RNN - Prolems with RNN and Solution](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/RNN_Problems_With_RNN.ipynb)
 
   
-## **1️2️⃣Transfer Learning on Imagenet Pretrained Models For Multiclass Image Classification Problem (CNN)-**
+## **1️1️⃣Transfer Learning on Imagenet Pretrained Models For Multiclass Image Classification Problem (CNN)-**
 Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/resultoftransferlearningonimagenetpretrainedmodelsonflowersdataset.txt)
 
 **Model 1-** [Resnet50 model with transfer learning for Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningResNetOnFlowersDatasetipynb.ipynb)
@@ -126,7 +126,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Next Word Predictor Using LSTM](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NextWordPredictorUsingLSTM.ipynb)
 - **[Gated Recurrent Unit](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GatedRecurrentUnit(GRU).ipynb)**
 
-## **1️4️⃣ - Bidirectional & Stacked RNN/LSTM/GRU**
+## **1️2️⃣ - Bidirectional & Stacked RNN/LSTM/GRU**
 - [Deep/Stacked RNN/LSTM/GRU's](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepRNN.ipynb)
 - [Bidirectional RNN/LSTM/GRU](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BidirectionalRNN.ipynb)
   
@@ -134,10 +134,12 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 ## 🤖📚🧠💬 [Large Language Models and ChatGPT](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LargeLanguageModels(LLM's).ipynb)
 
 
-## **1️5️⃣ - Sequence to Sequence Models**
+## **1️3️⃣ - Sequence to Sequence Models**
 - [Encoder - Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SequenceToSequenceModels.ipynb)
 - [Attention Mechanism](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AttentionMechanism.ipynb)
 - [Bahdanau and Luong Attention](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BahdanauAttentionVSLuongAttention.ipynb)
+
+  ## **1️4️⃣ - Transformer Models**
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
