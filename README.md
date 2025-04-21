@@ -137,6 +137,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 ## **1️5️⃣ - Sequence to Sequence Models**
 - [Encoder - Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SequenceToSequenceModels.ipynb)
 - [Attention Mechanism](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AttentionMechanism.ipynb)
+- [Bahdanau and Luong Attention](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BahdanauAttentionVSLuongAttention.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
