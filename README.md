@@ -140,6 +140,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Bahdanau and Luong Attention](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BahdanauAttentionVSLuongAttention.ipynb)
 
 ## **1️4️⃣ - Transformer Models**
+- [Transformer Introduction](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformerArchitecture.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
