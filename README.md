@@ -142,6 +142,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 ## **1️4️⃣ - Transformer Models**
 - [Transformer Introduction](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformerArchitecture.ipynb)
 - [Self Attention In Transformer-What?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Sef_AttentionInTransformers.ipynb)
+- [Self Attention In Transformer-How it works?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Sef_AttentionInTransformers(How).ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
