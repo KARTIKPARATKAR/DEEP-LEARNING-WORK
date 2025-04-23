@@ -118,7 +118,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 **Model 4-**[InceptionV3 model with Transfer Learning For Flowers classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransferLearningInceptionV3OnFlowersDatasetipynb.ipynb)
 - Got output as **accuracy: 0.6325 - loss: 1.4828 - val_accuracy: 0.4659 - val_loss: 1.9684** which is not at all a good model to predict as we got validation accuracy less than 50%.
 
-## **1️3️⃣ Long Short Term Memory(LSTM) & Gated Recurrent Units(GRU's)-**
+## **1️2️⃣ Long Short Term Memory(LSTM) & Gated Recurrent Units(GRU's)-**
 - [LSTM - Basics](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM(LongShortTermMemory)_Basics.ipynb)
 
 - [LSTM - Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LSTM_Architecture.ipynb)
@@ -126,7 +126,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Next Word Predictor Using LSTM](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/NextWordPredictorUsingLSTM.ipynb)
 - **[Gated Recurrent Unit](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/GatedRecurrentUnit(GRU).ipynb)**
 
-## **1️2️⃣ - Bidirectional & Stacked RNN/LSTM/GRU**
+## **1️3️⃣ - Bidirectional & Stacked RNN/LSTM/GRU**
 - [Deep/Stacked RNN/LSTM/GRU's](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepRNN.ipynb)
 - [Bidirectional RNN/LSTM/GRU](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BidirectionalRNN.ipynb)
   
