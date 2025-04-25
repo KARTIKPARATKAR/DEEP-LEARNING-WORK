@@ -146,6 +146,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Self Attention Visualization with Graphs](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Self_AttentionInTransformers_GeomentricIntuition.ipynb)
 - [How Self_attention Is Attention Mechanism?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WhyWeSayItSelf_Attention.ipynb)
 - [Multi_Head Attention In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultiHeadedAttention.ipynb)
+- [Positional Encoding In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PositionalEncodingInTransformers.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
