@@ -147,6 +147,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [How Self_attention Is Attention Mechanism?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/WhyWeSayItSelf_Attention.ipynb)
 - [Multi_Head Attention In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MultiHeadedAttention.ipynb)
 - [Positional Encoding In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PositionalEncodingInTransformers.ipynb)
+- [Layer Normalization In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LayerNormalizationInTransformers.ipynb)
 
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
