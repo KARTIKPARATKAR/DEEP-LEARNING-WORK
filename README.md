@@ -134,12 +134,12 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 ## 🤖📚🧠💬 [Large Language Models and ChatGPT](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LargeLanguageModels(LLM's).ipynb)
 
 
-## **1️3️⃣ - Sequence to Sequence Models**
+## **1️4️⃣- Sequence to Sequence Models**
 - [Encoder - Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/SequenceToSequenceModels.ipynb)
 - [Attention Mechanism](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/AttentionMechanism.ipynb)
 - [Bahdanau and Luong Attention](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/BahdanauAttentionVSLuongAttention.ipynb)
 
-## **1️4️⃣ - Transformer Models**
+## **1️5️⃣ - Transformer Models**
 - [Transformer Introduction](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformerArchitecture.ipynb)
 - [Self Attention In Transformer-What?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Sef_AttentionInTransformers.ipynb)
 - [Self Attention In Transformer-How it works?](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Sef_AttentionInTransformers(How).ipynb)
