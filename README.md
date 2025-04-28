@@ -149,6 +149,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Positional Encoding In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/PositionalEncodingInTransformers.ipynb)
 - [Layer Normalization In Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/LayerNormalizationInTransformers.ipynb)
 - [Transformer Architecture of Encoder Block](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformersArchitecture(Encoder).ipynb)
+- [Masked Self Attention and Transformer Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformersDecoderArchitecture(MaskedSelfAttention).ipynb)
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
 2️⃣ Click notebook links to view implementations  
