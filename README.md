@@ -152,6 +152,7 @@ Checkout Detailed Result -  [Here](https://github.com/KARTIKPARATKAR/DEEP-LEARNI
 - [Masked Self Attention and Transformer Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformersDecoderArchitecture(MaskedSelfAttention).ipynb)
 - [Cross Attention In Transformer Decoder Architecture](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CrossAttentionInDecoderTransformer.ipynb)
 - [Decoder Architecture While Training Of Transformers](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformerDecoderArchitecture.ipynb)
+- [Decoder Architecture While Prediction Of Transformer](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/TransformerDecoderArchitectureWhilePrediction.ipynb)
 ### **✨ How to Use This Repository**  
 1️⃣ Browse topics by category  
 2️⃣ Click notebook links to view implementations  
